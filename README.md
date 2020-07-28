@@ -1,2 +1,2 @@
-# breast_canacer_project
-This is  a machine learning model to predict breast cancer with high accuraccy
+This repository has multiple projects done using deep learning
+#ANN,RNN,CNN
